@@ -1,0 +1,18 @@
+{
+    "popular_books": [
+        {
+            "title": "Král chamtivosti"
+        },
+        {
+            "title": "Dvojí tvář"
+        },
+        {
+            "title": "Pravidlo"
+        }
+    ],
+    "new_books": [
+        "Brenda Li",
+        "Stacey Marie Brown",
+        "Blake Pierce"
+    ]
+}
